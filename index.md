@@ -1,6 +1,6 @@
 # Emilio Cecchini
 
-I'm a Software Engineer. I'm currently working as a Junior Software Engineer at [Quantavis s.r.l.](https://quantavis.com), where I deal primarily with back-end tasks in Go.
+I'm a Software Engineer. I'm currently working as a Junior Software Engineer at [Quantavis s.r.l.](https://www.quantavis.com), where I deal primarily with back-end tasks in Go.
 
 I have a Master's Degree in Computer Science. The fields that I enjoy the most are Software Development, Scientific Computing and Machine Learning.
 
